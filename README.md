@@ -1,2 +1,4 @@
 ![JohnAllenBerty's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAllenBerty&show_icons=true&theme=cobalt)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAllenBerty&layout=compact)](https://github.com/JohnAllenBerty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAllenBerty&layout=compact)](https://github.com/JohnAllenBerty/github-readme-stats)<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JohnAllenBerty/github-readme-stats)
+
